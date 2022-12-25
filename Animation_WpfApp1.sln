@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animation_WpfApp1", "Animation_WpfApp1\Animation_WpfApp1.csproj", "{FD9EBA8E-82EB-4EAF-9653-5E215453CAD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animation_WpfApp2", "Animation_WpfApp2\Animation_WpfApp2.csproj", "{449707EE-4D8E-4440-AE0A-ADA0B7048B62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD9EBA8E-82EB-4EAF-9653-5E215453CAD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD9EBA8E-82EB-4EAF-9653-5E215453CAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD9EBA8E-82EB-4EAF-9653-5E215453CAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD9EBA8E-82EB-4EAF-9653-5E215453CAD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{449707EE-4D8E-4440-AE0A-ADA0B7048B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449707EE-4D8E-4440-AE0A-ADA0B7048B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449707EE-4D8E-4440-AE0A-ADA0B7048B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449707EE-4D8E-4440-AE0A-ADA0B7048B62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C6526FE-7B71-4792-90D1-80DAA9F8AD5F}
+	EndGlobalSection
+EndGlobal
